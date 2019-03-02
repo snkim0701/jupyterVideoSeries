@@ -1,3 +1,3 @@
 # jupyterVideoSeries
 jupyter work flow example
-# 강물처럼 입니다 안녕하세요
+# 천문학자인 [Jake](http://jakevdp.github.io/archives.html) 가 data scientist 로 종목이 바꿨네요..
